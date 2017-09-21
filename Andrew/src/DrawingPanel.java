@@ -1,4 +1,6 @@
-/*
+
+/*NOT MY CODE, used for drawing the graph
+ *
  * =====================================================================
  * DrawingPanel.java
  * Simplified Java drawing window class
